@@ -1,0 +1,36 @@
+.omikuji {
+}
+
+.header {
+}
+
+.title {
+    font-size: 5vw;
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+.button {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 0, 0);
+    border: rgb(255, 0, 0);
+    border-radius: 50%;
+    font-size: 5vw;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    box-shadow:0 20px 2px rgb(230, 2, 2);
+}
+
+.button:hover {
+    opacity: 0.9;
+}
+
+.button:active {
+    box-shadow:0 10px 2px rgb(230, 2, 2);
+    margin-top: 10px;
+}
+
